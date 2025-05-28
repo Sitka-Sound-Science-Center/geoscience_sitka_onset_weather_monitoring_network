@@ -32,7 +32,7 @@ This README will be updated regularly as the status of the network evolves.
 
 ---
 
-### Gavan Station
+### Gavan Hill Station
 
 **What information is being collected?** Rainfall, pore pressure, temperature, barometric pressure, relative humidity, soil moisture
 
