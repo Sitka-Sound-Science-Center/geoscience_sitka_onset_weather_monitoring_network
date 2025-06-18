@@ -1,4 +1,4 @@
-# Sitka Weather Monitoring Network
+# Sitka Onset Weather Monitoring Network
 
 This repository contains information about the Sitka Sound Science Center's **HoboLink Onset (type of weather station) Network** in Sitka, Alaska. We are the process of collecting data and wil share it when it is available through this repository. Please reachout with any questions to nmathews@sitkascience.org.
 This README will be updated regularly as the status of the network evolves.
